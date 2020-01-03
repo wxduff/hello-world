@@ -1,1 +1,1 @@
-Hello! Testing GitHub using Git-it.
+Hello! Testing GitHub using Git-it program.
